@@ -17,7 +17,7 @@ The Hperl paper has two architecture
   AVOD(https://arxiv.org/pdf/1712.02294.pdf) followed by 
   LCRNET++ (https://arxiv.org/pdf/1803.00455.pdf).
   
-  Avod is used for predicting the pedestrain in the real time followed by the LCRNET++ which derives the poses from the detected pedestrain with 13 keypoints
+  Avod is used for predicting the pedestrian in the real time followed by the LCRNET++ which derives the poses from the detected pedestrian with 13 keypoints
   
   
 In this repo used dope
@@ -31,7 +31,7 @@ Architecture is cloned from the git
 
     git clone https://github.com/kujason/avod. 
     
-Here we are mainly concern about pedestrain.We have trained by the various epoch So by taking the pedistrain config file the data is trained.
+Here we are mainly concern about pedestrian.We have trained by the various epoch So by taking the pedestrian config file the data is trained.
  
 AVOD is trained with AVOD_People_example config for 70 epoch and time taken is 10 Hours
 
