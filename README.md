@@ -10,7 +10,14 @@ The Hperl paper has two architecture
   
 In this repo used dope(https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710375.pdf) which make use of LCRNET++ as a part.
 
-First the AVOD (Aggregate View of Object Detection) architecture is cloned from the git https://github.com/kujason/avod. Here we are mainly concern about pedistrain. So by taking the pedistrain config file the data is trained.
+**Getting Started**
+
+First the AVOD (Aggregate View of Object Detection) 
+Architecture is cloned from the git 
+
+    https://github.com/kujason/avod. 
+    
+Here we are mainly concern about pedestrain.We have trained by the various epoch So by taking the pedistrain config file the data is trained.
  
 AVOD is trained with AVOD_People_example config for 70 epoch and time taken is 10 Hours
 
