@@ -3,7 +3,7 @@
 
 The repo is all about implementing hprel paper. 
 
-The Hperl paper has two archtecture 
+The Hperl paper has two architecture 
 
   AVOD(https://arxiv.org/pdf/1712.02294.pdf) followed by 
   LCRNET++ (https://arxiv.org/pdf/1803.00455.pdf).
